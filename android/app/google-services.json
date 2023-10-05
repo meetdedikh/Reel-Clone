@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "116578712250",
+    "project_id": "reelclone-a260d",
+    "storage_bucket": "reelclone-a260d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116578712250:android:bd554564ff750276a02083",
+        "android_client_info": {
+          "package_name": "com.example.reelclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrYFg0vQlRxI2IkUUE8UD8ygHB1Mzhvh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
